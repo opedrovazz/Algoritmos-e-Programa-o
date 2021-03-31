@@ -13,7 +13,8 @@ programa
 
 		average = (num1 + num2)/2
 
-		escreva("The average between these two numbers is: ", average)
+		escreva("The sum of the numbers is: ", num1 + num2)
+		escreva("\nThe average between these two numbers is: ", average)
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -21,7 +22,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 12; 
+ * @POSICAO-CURSOR = 332; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
