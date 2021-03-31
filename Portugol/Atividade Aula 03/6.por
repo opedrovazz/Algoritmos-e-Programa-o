@@ -1,6 +1,6 @@
 programa
 {
-	//Exercício 06
+	//Exercício 06
 	
 	funcao inicio()
 	{
@@ -11,7 +11,7 @@ programa
 		{
 			preco = 0
 			
-			escreva("Digite o código da peça", contador, " :") 
+			escreva("Digite o código da peça ", contador, " :") 
 			leia(codigo)
 
 			/*
@@ -36,7 +36,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 560; 
+ * @POSICAO-CURSOR = 522; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
